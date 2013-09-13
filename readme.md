@@ -10,7 +10,7 @@ so you can use it just for educational purpose ;D.
 It works simply, usin patterns matching to validate form fields.  
   
   
-A complete example is available [here](../kw_archimedes_kv_optimusprime__sample)  
+A complete example is available [here](../../kw_archimedes_kv_optimusprime__sample)  
 And if you don't want to wander within entire project, just check this: [festival.js](../kw_archimedes_kv_optimusprime__sample/WebContent/js) 
 
 
